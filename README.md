@@ -1,4 +1,4 @@
-### Hi there 👋
+# `TEANAPS`: Text Analysis APIs
 
 <!--
 **fingeredman/fingeredman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
