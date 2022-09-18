@@ -8,3 +8,4 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/admin@teanaps.com-4FAEBD?style=flat-square&logo=Gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/http://teanaps.com-181717?style=flat-square&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/ⓒ 2022. TEANAPS all rights reserved.-4A4535?style=flat-square&logo=&logoColor=white" />
